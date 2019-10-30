@@ -1,0 +1,4 @@
+mysql-connector
+django
+pytz
+sqlparse
