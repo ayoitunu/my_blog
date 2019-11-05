@@ -82,7 +82,7 @@ DATABASES = {
         'HOST': 'localhost',
         'NAME': 'myblogdb',
         'USER': 'root',
-        'PASSWORD': '@mic2019DB$$',
+        'PASSWORD': 'demo_password',
         'PORT': '3306',
     }
 }
